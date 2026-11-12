@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+*.b64.*
+frontend/node_modules/
+frontend/dist/
+.git-local/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,22 @@
+{
+  "name": "energy-forecast-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader runner --host 127.0.0.1",
+    "build": "vite build --configLoader runner",
+    "preview": "vite preview --configLoader runner --host 127.0.0.1"
+  },
+  "dependencies": {
+    "lucide-react": "0.556.0",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@vitejs/plugin-react": "5.1.1",
+    "tailwindcss": "4.1.17",
+    "vite": "7.2.6"
+  }
+}

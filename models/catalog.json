@@ -1,0 +1,724 @@
+[
+  {
+    "family": "ct",
+    "lookback": 8,
+    "horizon": 2,
+    "epochs": 200,
+    "file": "ct/lb8_h2_e200.pth",
+    "drive_id": "1W28ZWC_rhRAXGTCJ0NorrUwnEnrgcu7t",
+    "metadata_id": "16vL7pxRCOQV0_M3ia-caHyX5B4R6XD2a",
+    "size": 3006005
+  },
+  {
+    "family": "ct",
+    "lookback": 8,
+    "horizon": 5,
+    "epochs": 200,
+    "file": "ct/lb8_h5_e200.pth",
+    "drive_id": "1ujfq1G-M6pRU9xefXAbZYwz66FRghob0",
+    "metadata_id": "1Ei9PxehuurLSqJ8UkSHItS_Xu-3Pm5ge",
+    "size": 3006773
+  },
+  {
+    "family": "ct",
+    "lookback": 8,
+    "horizon": 6,
+    "epochs": 200,
+    "file": "ct/lb8_h6_e200.pth",
+    "drive_id": "1qzDilOQ4-8ATpvdGlDFHX59mlI1Hv0Ca",
+    "metadata_id": "10Efni_b44DFRsXYycvfVgMpXmB7PZdOa",
+    "size": 3007029
+  },
+  {
+    "family": "ct",
+    "lookback": 8,
+    "horizon": 10,
+    "epochs": 200,
+    "file": "ct/lb8_h10_e200.pth",
+    "drive_id": "11PzuCLPgpQ_B5Z-AzLORamyPZBsEOkbq",
+    "metadata_id": "1qlNJyQjjdJe8QYg-bVT1605loL0mDqR7",
+    "size": 3008053
+  },
+  {
+    "family": "ct",
+    "lookback": 10,
+    "horizon": 5,
+    "epochs": 200,
+    "file": "ct/lb10_h5_e200.pth",
+    "drive_id": "1ngfmFsWlnHNU2YTQILVrDReZqYm7jVzg",
+    "metadata_id": "1TFIWdlNj5wysIK47nwxHOdBAfVRC2BuI",
+    "size": 3006773
+  },
+  {
+    "family": "ct",
+    "lookback": 10,
+    "horizon": 6,
+    "epochs": 200,
+    "file": "ct/lb10_h6_e200.pth",
+    "drive_id": "1DB6uwWh-IwYxOXdgXI6TeTdZNJlVVs1R",
+    "metadata_id": "1JXK_dJ7Li44OTPcc_3DFSHI-6WMwUU7e",
+    "size": 3007029
+  },
+  {
+    "family": "ct",
+    "lookback": 10,
+    "horizon": 10,
+    "epochs": 200,
+    "file": "ct/lb10_h10_e200.pth",
+    "drive_id": "1ogKnYbPanLFqHieCeWEXKLh-nYbA-r_O",
+    "metadata_id": "1JUZXy0cFCmzn9K-qe4dWAOauSQd7NAP6",
+    "size": 3008053
+  },
+  {
+    "family": "ct",
+    "lookback": 10,
+    "horizon": 12,
+    "epochs": 200,
+    "file": "ct/lb10_h12_e200.pth",
+    "drive_id": "1bqvayrCqak90oc75dO3AuEytvRychEuu",
+    "metadata_id": "1Z5ty_0UrlJT_67XHTzvAWOCFxFuuc1wE",
+    "size": 3008565
+  },
+  {
+    "family": "ct",
+    "lookback": 24,
+    "horizon": 5,
+    "epochs": 200,
+    "file": "ct/lb24_h5_e200.pth",
+    "drive_id": "1FPvSJ-_L74TzCcZMtjgGLcp5Kc0f4s2-",
+    "metadata_id": "1X578Z5VPSbjWLWuPfowrvIyb622Xa_RQ",
+    "size": 3006773
+  },
+  {
+    "family": "ct",
+    "lookback": 24,
+    "horizon": 6,
+    "epochs": 200,
+    "file": "ct/lb24_h6_e200.pth",
+    "drive_id": "1pKUa1cAHXK54Ulj7pGlru06sCBze7ULV",
+    "metadata_id": "1rRXZuVGNG8YFReWV_ogmi7JulTB73kor",
+    "size": 3007029
+  },
+  {
+    "family": "ct",
+    "lookback": 24,
+    "horizon": 10,
+    "epochs": 200,
+    "file": "ct/lb24_h10_e200.pth",
+    "drive_id": "1pyFsbfJj2fvw9OF2TvW7ioxHPbGFsMhz",
+    "metadata_id": "1o-vb-o7800N5wzox9U7r2bOGZ2lBhDDA",
+    "size": 3008053
+  },
+  {
+    "family": "ct",
+    "lookback": 24,
+    "horizon": 12,
+    "epochs": 200,
+    "file": "ct/lb24_h12_e200.pth",
+    "drive_id": "1rMcM75QdF9HCBFOUbV7SMlrlAYBMKrRJ",
+    "metadata_id": "1mbaKmhHEPM5ZtQcAR9l21B36tE9riuUk",
+    "size": 3008565
+  },
+  {
+    "family": "ct",
+    "lookback": 24,
+    "horizon": 24,
+    "epochs": 200,
+    "file": "ct/lb24_h24_e200.pth",
+    "drive_id": "1QCUi1q3g_ASMOe6J09JCAqehSIWSJsiI",
+    "metadata_id": "1runcS4z5NjL8oq7HJECJSBfYPwYver9B",
+    "size": 3011701
+  },
+  {
+    "family": "ct",
+    "lookback": 168,
+    "horizon": 5,
+    "epochs": 200,
+    "file": "ct/lb168_h5_e200.pth",
+    "drive_id": "13O8rdVjntUGgfQhlTK6PU_l8beVHfFLt",
+    "metadata_id": "1xZaQc-siY-jkburqWabssgg5iVLyXrj8",
+    "size": 3006773
+  },
+  {
+    "family": "ct",
+    "lookback": 168,
+    "horizon": 6,
+    "epochs": 200,
+    "file": "ct/lb168_h6_e200.pth",
+    "drive_id": "1cmxNQOrd8iUg85Xb7lbMuUQHiQ2zlL5q",
+    "metadata_id": "1Mxqs61c1PaSNPNJdrTzEpLQutHUOKVvU",
+    "size": 3007029
+  },
+  {
+    "family": "ct",
+    "lookback": 168,
+    "horizon": 12,
+    "epochs": 200,
+    "file": "ct/lb168_h12_e200.pth",
+    "drive_id": "1o7g_xGi-PNdkZaFe1p-MdCMoXY_Vn-Xn",
+    "metadata_id": "1v_p1-D0RDZJZsSnwgcfCzBTk29f_U5fo",
+    "size": 3008565
+  },
+  {
+    "family": "ct",
+    "lookback": 168,
+    "horizon": 24,
+    "epochs": 200,
+    "file": "ct/lb168_h24_e200.pth",
+    "drive_id": "1-h4APxhj5Hh-hed5ioYBX88wgqe7DyUb",
+    "metadata_id": "1ZXyhU_TMnbs6yVVN7AJLyrZIlXU4UEEj",
+    "size": 3011701
+  },
+  {
+    "family": "ct",
+    "lookback": 168,
+    "horizon": 48,
+    "epochs": 200,
+    "file": "ct/lb168_h48_e200.pth",
+    "drive_id": "1x5kBBFJFFl6aV0JfssQnidM-hqSOcQqW",
+    "metadata_id": "1npflhDxiMT_29KTjqUJHFHmL6yAtCdVG",
+    "size": 3017973
+  },
+  {
+    "family": "gru",
+    "lookback": 8,
+    "horizon": 1,
+    "file": "gru/CNN-GRU_lb8_h1.pth",
+    "drive_id": "1ZDTAJT_OBucukXrDReLnYMAogeTHOfC3",
+    "size": 372093
+  },
+  {
+    "family": "gru",
+    "lookback": 8,
+    "horizon": 2,
+    "file": "gru/CNN-GRU_lb8_h2.pth",
+    "drive_id": "1C4WHZZJQRGOIOFV5AKKmaecsbTYciTVj",
+    "size": 372477
+  },
+  {
+    "family": "gru",
+    "lookback": 8,
+    "horizon": 3,
+    "file": "gru/CNN-GRU_lb8_h3.pth",
+    "drive_id": "16LRiN7A7lZ3hgTD2PJC-Dp4kaqO14A3O",
+    "size": 372861
+  },
+  {
+    "family": "gru",
+    "lookback": 8,
+    "horizon": 5,
+    "file": "gru/CNN-GRU_lb8_h5.pth",
+    "drive_id": "1Igqo4gcjAHbddCom1dCTWY2XjaL-mLM8",
+    "size": 373693
+  },
+  {
+    "family": "gru",
+    "lookback": 8,
+    "horizon": 6,
+    "file": "gru/CNN-GRU_lb8_h6.pth",
+    "drive_id": "11lEBgqttoDSynSjoX6_2OSDqMcEFda_B",
+    "size": 374077
+  },
+  {
+    "family": "gru",
+    "lookback": 8,
+    "horizon": 10,
+    "file": "gru/CNN-GRU_lb8_h10.pth",
+    "drive_id": "1NSPX85dc9pJRIqygsvKyG9PGEn9tIUEM",
+    "size": 375695
+  },
+  {
+    "family": "gru",
+    "lookback": 10,
+    "horizon": 2,
+    "file": "gru/CNN-GRU_lb10_h2.pth",
+    "drive_id": "1qkr-GRSeUT5IC34nxfoWzdoTm0M3dTeg",
+    "size": 372495
+  },
+  {
+    "family": "gru",
+    "lookback": 10,
+    "horizon": 3,
+    "file": "gru/CNN-GRU_lb10_h3.pth",
+    "drive_id": "17qOMQoMmeL0uNMY5QmbvobCRz_LSjbpo",
+    "size": 372879
+  },
+  {
+    "family": "gru",
+    "lookback": 10,
+    "horizon": 5,
+    "file": "gru/CNN-GRU_lb10_h5.pth",
+    "drive_id": "1AJnaGplDQtZhSG9D16H_PJsGCRrxrNhB",
+    "size": 373711
+  },
+  {
+    "family": "gru",
+    "lookback": 10,
+    "horizon": 6,
+    "file": "gru/CNN-GRU_lb10_h6.pth",
+    "drive_id": "1dfhKHR9ed98ogSPQANodp8dPXm5hALkd",
+    "size": 374095
+  },
+  {
+    "family": "gru",
+    "lookback": 10,
+    "horizon": 10,
+    "file": "gru/CNN-GRU_lb10_h10.pth",
+    "drive_id": "1IO6Qhs_N4kLqC6KY3xcFsBhqsLXbZwDx",
+    "size": 375713
+  },
+  {
+    "family": "gru",
+    "lookback": 10,
+    "horizon": 12,
+    "file": "gru/CNN-GRU_lb10_h12.pth",
+    "drive_id": "1ValBjImOxub9KywqC_B92Mw2VWFduLAN",
+    "size": 376545
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 2,
+    "file": "gru/CNN-GRU_lb24_h2.pth",
+    "drive_id": "1zUWDqWFACwULOQkhQKWYps0fLyjIALgY",
+    "size": 372495
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 3,
+    "file": "gru/CNN-GRU_lb24_h3.pth",
+    "drive_id": "1TxVdc-y6x-i2bBTlVamUsW-sQ4CSp-gP",
+    "size": 372879
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 5,
+    "file": "gru/CNN-GRU_lb24_h5.pth",
+    "drive_id": "1RphlPEKLEKwGISTTa-1qoXlo_GsZ6Kg7",
+    "size": 373711
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 6,
+    "file": "gru/CNN-GRU_lb24_h6.pth",
+    "drive_id": "1IyvfI76c6sUBMw_w-BjeNZqYNpKJ0RCb",
+    "size": 374095
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 10,
+    "file": "gru/CNN-GRU_lb24_h10.pth",
+    "drive_id": "185MWs7Dp6PoifxkXJzOtqGKFYXj4opAi",
+    "size": 375713
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 12,
+    "file": "gru/CNN-GRU_lb24_h12.pth",
+    "drive_id": "15jxe9yM1Ihqkp6Yp7qFhsPzz9VRe4w2R",
+    "size": 376545
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 15,
+    "file": "gru/CNN-GRU_lb24_h15.pth",
+    "drive_id": "1v1ohQFut2m7bu58X0eu4IZlacqCv7SgO",
+    "size": 377761
+  },
+  {
+    "family": "gru",
+    "lookback": 24,
+    "horizon": 24,
+    "file": "gru/CNN-GRU_lb24_h24.pth",
+    "drive_id": "17vshNmXPfiu0Rc7h1m5kFfDn0uZHZKRa",
+    "size": 381409
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 2,
+    "file": "gru/CNN-GRU_lb168_h2.pth",
+    "drive_id": "1w8lgLf6s9pi8Vw56VEvECdaK0FpLqU7G",
+    "size": 371452
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 3,
+    "file": "gru/CNN-GRU_lb168_h3.pth",
+    "drive_id": "15WkBIK14uU3Y0434I99nKQ7kL1m4CDcJ",
+    "size": 371836
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 5,
+    "file": "gru/CNN-GRU_lb168_h5.pth",
+    "drive_id": "1QqnvLKKAFqXy73U0wmQmWjqu19s2vHG0",
+    "size": 372668
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 6,
+    "file": "gru/CNN-GRU_lb168_h6.pth",
+    "drive_id": "1z3H6_m1CJtqzDjc-FSMrzAiQTOePLk1J",
+    "size": 373052
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 10,
+    "file": "gru/CNN-GRU_lb168_h10.pth",
+    "drive_id": "1-Nb42CS39-mIrLX-Xzd3iwysW7nDHHZ2",
+    "size": 374663
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 12,
+    "file": "gru/CNN-GRU_lb168_h12.pth",
+    "drive_id": "1zlpOuP3Iw60LA8PNrxsE-BcWPIsnAB7Y",
+    "size": 375495
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 24,
+    "file": "gru/CNN-GRU_lb168_h24.pth",
+    "drive_id": "1hD1oM2qwYSYrn2IaTFuUoej-cnvUe7Cc",
+    "size": 380359
+  },
+  {
+    "family": "gru",
+    "lookback": 168,
+    "horizon": 48,
+    "file": "gru/CNN-GRU_lb168_h48.pth",
+    "drive_id": "1_04Y0lt8-rFrATkuBQnH2-zIks0dZXf-",
+    "size": 390087
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 2,
+    "epochs": 20,
+    "file": "lstm/CNNLSTM_lb8_h2_e20_best.pth",
+    "drive_id": "1rBtpjP31gvL-4PuKas91GaOguggQt7Ay",
+    "size": 170669,
+    "supported": false,
+    "issue": "Checkpoint output layer has one value despite a larger horizon in its filename."
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 2,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb8_h2_e60_best.pth",
+    "drive_id": "1TF3zQnpBojqfsoq60hZZRBTV2xuvs5ze",
+    "size": 171053
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 3,
+    "epochs": 2,
+    "file": "lstm/CNNLSTM_lb8_h3_e2_best.pth",
+    "drive_id": "1qS6237MH6jfuGWli267CpAHjjOaxJo4Z",
+    "size": 170878
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 3,
+    "epochs": 20,
+    "file": "lstm/CNNLSTM_lb8_h3_e20_best.pth",
+    "drive_id": "1pN4MdaVbmyRgqa8Xye8nGl0mOT_ngnJ8",
+    "size": 170669,
+    "supported": false,
+    "issue": "Checkpoint output layer has one value despite a larger horizon in its filename."
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 3,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb8_h3_e60_best.pth",
+    "drive_id": "1RfrYjYSTcEOg0nhuVbKjpMrTvxFCwY4J",
+    "size": 171437
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 5,
+    "epochs": 20,
+    "file": "lstm/CNNLSTM_lb8_h5_e20_best.pth",
+    "drive_id": "1k-t8dqfvs4EO15ggnn-6iemIdJfQsDqD",
+    "size": 170733,
+    "supported": false,
+    "issue": "Checkpoint output layer has one value despite a larger horizon in its filename."
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 5,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb8_h5_e60_best.pth",
+    "drive_id": "1ihJ5gDqfnDobZ0gxTRK9VlhZNjsRWnEw",
+    "size": 172269
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 6,
+    "epochs": 20,
+    "file": "lstm/CNNLSTM_lb8_h6_e20_best.pth",
+    "drive_id": "1QngQmnz6_DUpnlwxbBVT0fhfSaYIXVPV",
+    "size": 170733,
+    "supported": false,
+    "issue": "Checkpoint output layer has one value despite a larger horizon in its filename."
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 6,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb8_h6_e60_best.pth",
+    "drive_id": "18CHIXe2uKOt9yy1NsrLVym_gVsjFsrJ2",
+    "size": 172653
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 10,
+    "epochs": 20,
+    "file": "lstm/CNNLSTM_lb8_h10_e20_best.pth",
+    "drive_id": "16PLz4LyGPO8o_OLU-At19r1ERq9dCq10",
+    "size": 170747,
+    "supported": false,
+    "issue": "Checkpoint output layer has one value despite a larger horizon in its filename."
+  },
+  {
+    "family": "lstm",
+    "lookback": 8,
+    "horizon": 10,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb8_h10_e60_best.pth",
+    "drive_id": "17wid588WU9NJofNzWBgNfxlsgCoXN9op",
+    "size": 174331
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 2,
+    "epochs": 20,
+    "file": "lstm/CNNLSTM_lb10_h2_e20_best.pth",
+    "drive_id": "1bzjRvEY2fZB6fQ9TEDRxfzjqXMM6I43U",
+    "size": 170747,
+    "supported": false,
+    "issue": "Checkpoint output layer has one value despite a larger horizon in its filename."
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 2,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb10_h2_e60_best.pth",
+    "drive_id": "1JaKuomLbZvMdBxH2wj_Vd7RCDUoHwnZ3",
+    "size": 171131
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 3,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb10_h3_e60_best.pth",
+    "drive_id": "1v1AC0AMJsMCflZs8uG9R_BLVAV0A543-",
+    "size": 171579
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 5,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb10_h5_e60_best.pth",
+    "drive_id": "1R6fg8Azh4qGhlPBY3ruouw23P3zvHupm",
+    "size": 172347
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 6,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb10_h6_e60_best.pth",
+    "drive_id": "1Fc9AFlVlXZFFu8ax3CKY2PRiwaYT1QpY",
+    "size": 172731
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 10,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb10_h10_e60_best.pth",
+    "drive_id": "1twKNdE6jfomAGHuD6z6LJzPsgbx4NuMS",
+    "size": 174345
+  },
+  {
+    "family": "lstm",
+    "lookback": 10,
+    "horizon": 12,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb10_h12_e60_best.pth",
+    "drive_id": "1IjhHecpZuBtCCj0nb19vTWp6TLCiNydJ",
+    "size": 175241
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 2,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h2_e60_best.pth",
+    "drive_id": "1Iq0MSHaDdQFaqUK8mES1peqKRx1-7M4_",
+    "size": 171131
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 3,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h3_e60_best.pth",
+    "drive_id": "1DVOC-UYbZdf9csHvgzpdoiB1iqYFf3bB",
+    "size": 171579
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 5,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h5_e60_best.pth",
+    "drive_id": "1ZYB1wD96I8yaz64m1ylclOFkHBphGtx0",
+    "size": 172347
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 6,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h6_e60_best.pth",
+    "drive_id": "1_kiFp_-S7HCMcYYDdBZww_fKsu7JMrCC",
+    "size": 172731
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 10,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h10_e60_best.pth",
+    "drive_id": "15ksHFKRVclJ40xsq4glzPOpSaTOwjT_W",
+    "size": 174345
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 12,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h12_e60_best.pth",
+    "drive_id": "1kpgoQlcIiviOJq8ocutWeRa8_I9378qk",
+    "size": 175241
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 15,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h15_e60_best.pth",
+    "drive_id": "1gSR4MZ2gOa86iFRuxEcsRGNXdgi8KqJ7",
+    "size": 176457
+  },
+  {
+    "family": "lstm",
+    "lookback": 24,
+    "horizon": 24,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb24_h24_e60_best.pth",
+    "drive_id": "1WDZpK8fzw862q5BoujPzbYVyTFj0u5_Q",
+    "size": 180041
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 2,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h2_e60_best.pth",
+    "drive_id": "1KpdgD2PFzAXZvKQdTimtUdV2z7bGsTZv",
+    "size": 171145
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 3,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h3_e60_best.pth",
+    "drive_id": "14l9Cd9DiDkEhf5yyVwWkY8ZRQEuoluXq",
+    "size": 171039
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 5,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h5_e60_best.pth",
+    "drive_id": "1erDsrk2VpnmWCwPA7MCoKmKj-Ro9bdpJ",
+    "size": 171807
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 6,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h6_e60_best.pth",
+    "drive_id": "1jZ-FfsAxBJdrhgO_XxBQ_60IezfrxqhH",
+    "size": 172191
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 10,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h10_e60_best.pth",
+    "drive_id": "1NKYZzZn7RgyKYWMscRoN4OllQ3wtbtX9",
+    "size": 173802
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 12,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h12_e60_best.pth",
+    "drive_id": "1KIllKXGhdLrKVB_ICNKnJ3AoFS0odGTN",
+    "size": 174698
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 24,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h24_e60_best.pth",
+    "drive_id": "1501vs0if9HreuXBTQFV-zS4BzSDu7mqi",
+    "size": 179498
+  },
+  {
+    "family": "lstm",
+    "lookback": 168,
+    "horizon": 48,
+    "epochs": 60,
+    "file": "lstm/CNNLSTM_lb168_h48_e60_best.pth",
+    "drive_id": "1Ba3QS1oigSTG-BW30lUGbZsn5ohEljij",
+    "size": 189226
+  }
+]
