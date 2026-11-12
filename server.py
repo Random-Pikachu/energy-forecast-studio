@@ -194,9 +194,10 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main() -> None:
-    port = int(os.environ.get("IOTBDM_PORT", "8000"))
-    server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
-    print(f"Energy Forecast is ready at http://127.0.0.1:{port}", flush=True)
+    port = int(os.environ.get("PORT", os.environ.get("IOTBDM_PORT", "8000")))
+    host = os.environ.get("IOTBDM_HOST", "0.0.0.0" if "PORT" in os.environ else "127.0.0.1")
+    server = ThreadingHTTPServer((host, port), Handler)
+    print(f"Energy Forecast is ready at http://{host}:{port}", flush=True)
     server.serve_forever()
 
 

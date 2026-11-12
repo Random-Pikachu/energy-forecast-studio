@@ -20,6 +20,17 @@ Open **http://127.0.0.1:8000**. Press `Ctrl+C` to stop the server. After the fir
 
 For frontend development, run `.venv/bin/python server.py` in one terminal and `cd frontend && npm run dev` in another. Vite proxies `/api` to the Python server; use the URL printed by Vite.
 
+## Deploy with Docker
+
+The root `Dockerfile` builds the React frontend and serves it with the Python API and bundled model checkpoints on port 8000. To try the container locally:
+
+```bash
+docker build -t energy-forecast-studio .
+docker run --rm -p 8000:8000 energy-forecast-studio
+```
+
+For Northflank, create a combined service from this GitHub repository using the root Dockerfile. Choose one instance with at least 1 GB of memory and expose container port **8000** as public HTTP. The image sets `PORT=8000`, so no extra runtime variables or separate model service are needed. The generated public URL serves both the dashboard and `/api/*` routes.
+
 ## Use the dashboard
 
 1. Choose CNN–Transformer, CNN–GRU, or CNN–LSTM and a trained lookback/horizon combination.
