@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { Zap } from 'lucide-react'
 import { requestJSON } from './api.js'
 import { FAMILY, HOURS, buildCsv, formatHours, hourlyTimestamps, monthYear, parseReadings } from './format.js'
 import ControlPanel from './components/ControlPanel.jsx'
 import ForecastChart from './components/ForecastChart.jsx'
 import ForecastTable from './components/ForecastTable.jsx'
+import Logo from './components/Logo.jsx'
 import { isEditedReading, isInvalidReading } from './components/ReadingsEditor.jsx'
 import ServerDown from './components/ServerDown.jsx'
 import StatStrip from './components/StatStrip.jsx'
@@ -240,9 +240,7 @@ export default function App() {
       <header className="border-b border-line">
         <div className="mx-auto flex h-14 max-w-[1280px] items-center justify-between gap-4 px-4 sm:px-8">
           <div className="flex items-center gap-3">
-            <span className="flex size-8 items-center justify-center rounded-control bg-forest text-lime">
-              <Zap size={20} strokeWidth={1.75} fill="currentColor" aria-hidden="true" />
-            </span>
+            <Logo />
             <span className="text-title font-semibold">Energy Forecast Studio</span>
           </div>
           {catalog ? (
