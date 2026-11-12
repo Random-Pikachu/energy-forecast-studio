@@ -23,7 +23,7 @@ For frontend development, run `.venv/bin/python server.py` in one terminal and `
 ## Use the dashboard
 
 1. Choose CNN–Transformer, CNN–GRU, or CNN–LSTM and a trained lookback/horizon combination.
-2. Select **Explore history** and a date/hour, including 2018, or upload a CSV with `timestamp,building_power` columns. A model with a 168-hour lookback needs 168 consecutive hourly readings.
+2. Under **Source**, choose **History** and a date/hour, including 2018; **Enter values** to paste or type your own readings and set when they start; or **Upload CSV** with `timestamp,building_power` columns. A model with a 168-hour lookback needs 168 consecutive hourly readings.
 3. Click **Generate forecast**. The chart shows past readings, forecast values, and actual future readings when replaying history. The result table can be exported as CSV.
 
 Historical readings can be edited before running a forecast. The earliest selectable hour depends on the lookback: July 1, 2018 at 07:00 for an 8-hour model, and July 7 at 23:00 for a 168-hour model. Errors on training-period dates are illustrative and are not held-out test scores.
